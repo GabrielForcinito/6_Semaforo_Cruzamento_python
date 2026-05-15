@@ -9,7 +9,8 @@ O sistema simula o funcionamento de um **semáforo em um cruzamento**, controlan
 ---
 
 ## 📸 Preview
-
+---
+<img width="328" height="379" alt="image" src="https://github.com/user-attachments/assets/17e3efc5-eda0-4875-956a-02e191fca413" />
 
 ---
 
