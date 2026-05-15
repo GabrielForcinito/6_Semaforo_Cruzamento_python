@@ -43,6 +43,13 @@ O sistema simula o funcionamento de um **semáforo em um cruzamento**, controlan
 
 ---
 
+## ⚙️ Requisitos
+
+- Python 3.x instalado
+- Biblioteca colorama (opcional, mas recomendada)
+
+---
+
 ## 💻 Como executar
 
 1. Clone ou baixe este repositório
